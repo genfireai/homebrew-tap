@@ -1,8 +1,8 @@
 class Genfire < Formula
   desc "Command-line interface for the GenFire generative media platform"
   homepage "https://github.com/genfireai/cli"
-  url "https://registry.npmjs.org/@genfire/cli/-/cli-0.2.0.tgz"
-  sha256 "9ef1c50ca262ce8ced31d5e6a2b98025df92c960d4e1352cbc08df7003cd9201"
+  url "https://registry.npmjs.org/@genfire/cli/-/cli-0.3.0.tgz"
+  sha256 "06e5f6b3a9c413e817805e8d39de0ed456f7070ef6f4cd4673955c05725d14e7"
   license "MIT"
 
   depends_on "node"
